@@ -6,3 +6,7 @@ output "resource_group_location" {
   value = "${module.resource_group.resource_group_location}"
 }
 
+
+
+
+#chabnge the value ads per required
